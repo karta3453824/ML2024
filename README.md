@@ -1,7 +1,7 @@
 # ML2024
 
 ## 1. Loss Curve
-![image](PIC/Acc Curve.png)
+![loss](PIC/Loss Curve.png)
 
 ## 2. Acc Curve
 ![loss](PIC/Acc Curve.png)
