@@ -1,10 +1,10 @@
 # ML2024
 
 ## 1. Loss Curve
-![loss](/loss_curve.png)
+![loss](/Loss Curve.png)
 
 ## 2. Acc Curve
-![loss](/acc_curve.png)
+![loss](/Acc Curve.png)
 
 ## 3. Predict Result
-![loss](/pred_res.png)
+![loss](/Predict Result.png)
